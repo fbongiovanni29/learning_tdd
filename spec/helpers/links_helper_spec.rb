@@ -1,3 +1,4 @@
+# This code was adapted from github.com/thoughtbot/testing-rails
 require 'rails_helper'
 
 # Specs in this file have access to a helper object that includes

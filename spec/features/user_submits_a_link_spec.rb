@@ -1,3 +1,4 @@
+# This code was adapted from github.com/thoughtbot/testing-rails
 require "rails_helper.rb"
 
 #.feature gives methods to all of Capybara's methods for interacting with pagee

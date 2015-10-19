@@ -1,3 +1,4 @@
+# This code was adapted from github.com/thoughtbot/testing-rails
 RSpec.feature "User upvotes a link" do
 	scenario "they see an increased score" do
 		link = create(:link)
